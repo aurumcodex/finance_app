@@ -1,0 +1,3 @@
+= Simple Finance App
+
+An application that is written in golang for my mom to use.
